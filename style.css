@@ -221,3 +221,26 @@ main {
   border: none;
   background: none;
 }
+
+/*========== MEDIA QUERIES ==========*/
+/* Notes Need to work with making it more responsive  */
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 50%;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  html {
+    font-size: 35%;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 25%;
+    box-sizing: border-box;
+  }
+}
