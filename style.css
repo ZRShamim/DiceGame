@@ -240,7 +240,7 @@ main {
 
 @media screen and (max-width: 400px) {
   html {
-    font-size: 25%;
+    font-size: 20%;
     box-sizing: border-box;
   }
 }
