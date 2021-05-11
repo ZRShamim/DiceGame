@@ -242,5 +242,6 @@ main {
   html {
     font-size: 20%;
     box-sizing: border-box;
+    text-align: center;
   }
 }
